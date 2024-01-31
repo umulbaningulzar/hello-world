@@ -2,7 +2,7 @@
 Welcome to the CS 3250 Software Development Project repository! This project is part of the coursework for the CS 3250 class. 
 
 ### Description: 
-This project is developed as part of the CS 3250 Software Development course at [MSU Denver]. It is developed by [Umulbannin] to demonstrate understanding and application of software development concepts learned throughout the course.
+This project is developed as part of the CS 3250 Software Development course at MSU Denver. It is developed by Umulbannin Gulzar to demonstrate understanding and application of software development concepts learned throughout the course.
 
 ### Installation
 To run this project locally, follow these steps:
