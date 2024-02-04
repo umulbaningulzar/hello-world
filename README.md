@@ -1,22 +1,32 @@
-# CS 3250 Software Development Project
-Welcome to the CS 3250 Software Development Project repository! This project is part of the coursework for the CS 3250 class. 
-
-### Description: 
-This project is developed as part of the CS 3250 Software Development course at MSU Denver. It is developed by Umulbannin Gulzar to demonstrate understanding and application of software development concepts learned throughout the course.
-
-### Installation
-To run this project locally, follow these steps:
-
-Clone this repository to your local machine using git clone (https://github.com/your-username/cs3250-project.git)
-
-### Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork this repository
-2. Create a new branch 
-3. Make your changes
-4. Commit your changes 
-5. Push to the branch 
-6. Create a new Pull Request
-
-### Contact
-If you have any questions regarding this project, feel free to contact [Umulbanin Gulzar] at [ugulzar@msudenver.edu].
+# What is markdown? 
+This is a demo to show the markdown formats. 
+Let's try a few different things.
+ 
+## Number 1 Bold
+------------------------------------
+This is a **BOLD** text.
+ 
+## Number 2 Italic
+--------------------------------------
+This is a ITALIC word.
+ 
+## Number 3 blockquote
+---------------------------------------
+This is to show how a block looks like:
+ 
+>Hi I am a block.
+>
+>Hi I am still in block 
+>>Hi I am in a block in block
+ 
+## this is a  function:
+```
+def class(size: float, numOfStudent: int)
+``` 
+## Number 4 Lists:
+1. The first item 
+1. The second item
+ 
+# What is Computer Science?
+Computer Science is the study of computers.
+has context menu
